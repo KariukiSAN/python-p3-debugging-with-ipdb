@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import ipdb
+import ipdb #statement that loads the ipdb library when the application runs.
 
 def tracing_the_function():
     inside_the_function = "We're inside the function"
